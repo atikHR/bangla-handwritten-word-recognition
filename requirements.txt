@@ -1,0 +1,9 @@
+tensorflow==2.21.0
+streamlit==1.67.0
+streamlit-drawable-canvas[image]==0.13.0
+opencv-python-headless==4.14.0.94
+mlflow==3.17.2
+numpy>=2.0,<3.0
+pandas>=2.2,<4.0
+scikit-learn>=1.6,<2.0
+Pillow>=10.0,<13.0
