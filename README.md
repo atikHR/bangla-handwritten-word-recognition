@@ -2,8 +2,8 @@
 
 **SICIP BRAC University — Assignment 04**
 
-**Student Name:** [Md. Atik Hasan Rahat]  
-**Student ID:** [1000128329]
+**Student Name:** Md. Atik Hasan Rahat 
+**Student ID:** 1000128329
 
 ## 1. Project Overview
 
